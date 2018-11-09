@@ -1,2 +1,3 @@
 * Avocados
-* Mangos 
+* Cereal
+* Cheese
